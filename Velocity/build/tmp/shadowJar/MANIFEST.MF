@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+paperweight-mappings-namespace: mojang+yarn
+Main-Class: org.bukkit.plugin.java.JavaPlugin
+MixinConfigs: mixins.velocity.json
+

@@ -1,0 +1,4 @@
+name: Velocity
+version: '1.0-SNAPSHOT'
+main: me.moonboygamer.velocity.Velocity
+api-version: '1.21'
