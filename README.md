@@ -1,8 +1,16 @@
 # Velocity
-A Minecraft plugin that changes the way the mob ai works and how its pathfinding works as well.
-
+A Minecraft plugin that revolutionizes mob AI and pathfinding, transitioning from traditional block-based movement to a velocity-based system.
 
 ## Features
-This plugin takes advantage of SpongeMixins and the PaperApi to inject code into mob's ai step to allow for custom ai.
+- **Customizable AI**: This plugin leverages SpongeMixins and the Paper API to inject custom AI behavior directly into mob pathfinding and decision-making.
+- **Velocity-Based Pathfinding**: Pathfinding is redefined, shifting from the default block-based system to a smooth, velocity-driven approach, allowing for more dynamic and realistic mob movement.
 
-This plugin changes how pathfinding works to switched from block based to a purely velocity based system.
+## Installation
+1. Download the latest version of the Velocity plugin from the [releases page](#).
+2. Place the downloaded `.jar` file into your server's `plugins` folder.
+3. Start or restart your Minecraft server.
+
+## Usage
+Once installed, the plugin will automatically modify the AI and pathfinding of all mobs on your server.
+
+Developers can create custom AI goals using the plugin's API without needing to work directly with NMS. 
