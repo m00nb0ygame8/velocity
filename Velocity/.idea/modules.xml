@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Velocity.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Velocity.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Velocity.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Velocity.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/me.moonboygamer.Velocity.main.iml" filepath="$PROJECT_DIR$/.idea/modules/me.moonboygamer.Velocity.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/me.moonboygamer.Velocity.test.iml" filepath="$PROJECT_DIR$/.idea/modules/me.moonboygamer.Velocity.test.iml" />
     </modules>
   </component>
 </project>
